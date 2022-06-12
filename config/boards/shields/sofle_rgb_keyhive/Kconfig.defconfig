@@ -4,7 +4,7 @@
 if SHIELD_SOFLE_RGB_KEYHIVE_LEFT
 
 config ZMK_KEYBOARD_NAME
-	default "Sofle Keyhive jsu"
+	default "Sofle KH jsu"
 
 config ZMK_SPLIT_BLE_ROLE_CENTRAL
 	default y
